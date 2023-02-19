@@ -3,3 +3,8 @@
 #### H4 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+ ```
+ $ git commit -m <message>
+ commit with a short message
+ ```
