@@ -8,3 +8,7 @@
  $ git commit -m <message>
  commit with a short message
  ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Try some activities
